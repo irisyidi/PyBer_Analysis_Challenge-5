@@ -7,7 +7,7 @@ The purpose of the new analysis is to create a variety of charts that showcase t
 ## Results 
 ### Analysis of Pyber Summary 
 
-![Deliverable 1](https://github.com/irisyidi/PyBer_Analysis_Challenge-5/blob/main/Deliverable%201.png)
+![HW-1](https://github.com/irisyidi/PyBer_Analysis_Challenge-5/blob/main/HW-1.png)
 
 As for the total rides, the total rides are highest in urban cities and lowest in rural area, which has positive direct relationship with the number of drivers and fares. The total rides are 1625 in Urban, which is 13 times the number of rides in Rural area (125 rides) and 2.6 times the number of rides in Suburban area (625 rides). As for total drivers, the drivers are 78 in rural areas, which is 412 fewer than those in suburban area and one in thirty on times those in urban area. The situation of total fares is similar to that of total rides and total drivers. The total fares in Urban area are highest among the three types of cities, which is $39,854.38. the total fares in Urban area is twice the total fares in Suburban area ($19,356.33) and approximately nine times the total fares in Rural area ($4,327.93). 
 
