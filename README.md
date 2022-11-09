@@ -21,7 +21,6 @@ The total fares in Rural area range from $0 to $500 from Jan to May. The total f
 
 
 ## Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
 
 ### Maintain stable ridesharing supplies in Urban and Suburban area
 From the analysis above, it is clear that the demand for ridesharing is higher than that in Suburban and Rural area. To improve the access to ridesharing services, business should maintain the constant supplies in Urban and Suburban area and improve the ridesharing services in Rural area. 
